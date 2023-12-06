@@ -4,5 +4,5 @@ module.exports = defineConfig({
   publicPath:
     process.env.NODE_ENV === "production"
       ? "/vue2-userlist-jsonplaceholder/"
-      : "/userslist",
+      : "/",
 });
