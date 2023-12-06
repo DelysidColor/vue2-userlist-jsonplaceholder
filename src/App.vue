@@ -19,9 +19,6 @@ export default {
       return this.$store.state.currentUser;
     },
   },
-  created() {
-    this.$router.push({ name: "userslist" });
-  },
 };
 </script>
 
