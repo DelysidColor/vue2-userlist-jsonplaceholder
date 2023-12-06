@@ -1,5 +1,5 @@
 const { defineConfig } = require("@vue/cli-service");
 module.exports = defineConfig({
   transpileDependencies: true,
-  publicPath: "/vue2-userlist-jsonpplaceholder/",
+  publicPath: "/vue2-userlist-jsonplaceholder/",
 });
